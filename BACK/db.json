@@ -46,8 +46,8 @@
       "nome": "Vitão",
       "email": "vitor@email",
       "senha": "vitor",
-      "id": 7,
-      "premium": true
+      "premium": true,
+      "id": 7
     },
     {
       "nome": "rubens2",
